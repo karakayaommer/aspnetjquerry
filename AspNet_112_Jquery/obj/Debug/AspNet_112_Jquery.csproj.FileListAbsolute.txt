@@ -1,0 +1,12 @@
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_112_Jquery\AspNet_112_Jquery\bin\AspNet_112_Jquery.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_112_Jquery\AspNet_112_Jquery\bin\AspNet_112_Jquery.pdb
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.csprojResolveAssemblyReference.cache
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\bin\AspNet_112_Jquery.dll.config
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\bin\AspNet_112_Jquery.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\bin\AspNet_112_Jquery.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.csproj.AssemblyReference.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.csproj.CoreCompileInputs.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_112_Jquery\AspNet_112_Jquery\obj\Debug\AspNet_112_Jquery.pdb
